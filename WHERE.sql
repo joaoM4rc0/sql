@@ -1,1 +1,1 @@
-select * from users where id>2 and first_name = 'mary';
+select * from users where id BETWEEN 55 and 100;
